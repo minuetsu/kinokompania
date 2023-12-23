@@ -1,9 +1,11 @@
 # rintivius skins
+ ### playstyle: index-middle + drag
 <p align="center">
 <a href="https://osu.ppy.sh/users/12570345">
 <img src="https://a.ppy.sh/12570345"
        width="175"
-       height="175"></a>
+       height="175">
+</a>
 
   ### [Aristia(Edit)](https://www.dropbox.com/scl/fi/0pfye9yenfyf9b4i17fa2/azer8dawn.osk?rlkey=bahslelt34pypv6pxtptofm3x&dl=0)
 ![screenshot038](https://github.com/minuetsu/kinokompania/assets/144561515/672948c0-4f46-44c7-a146-8a5273613467)
