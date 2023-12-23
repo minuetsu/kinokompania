@@ -1,5 +1,5 @@
 # rintivius skins
- ### playstyle: index-middle + drag
+
 <p align="center">
 <a href="https://osu.ppy.sh/users/12570345">
 <img src="https://a.ppy.sh/12570345"
