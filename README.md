@@ -1,4 +1,4 @@
-# kinokompania skins
+# kinokompania skinhub
 
 
 
