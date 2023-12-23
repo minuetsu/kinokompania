@@ -1,9 +1,12 @@
 # column skins
+ ### playstyle: index-ring + hover
  <p align="center">
  <a href="https://osu.ppy.sh/users/10143155">
  <img src="https://a.ppy.sh/10143155"
        width="175"
        height="175"></a>
+
+
 
 ### [seoulv10(kohlrubenwinter+column)](https://drive.google.com/file/d/1gyiUOa0-eKyE6UhS9h9kU9MrUWABA7Ye/view?usp=sharing)
 ![screenshot037](https://github.com/minuetsu/osu-skins/assets/144561515/2d7f0e98-752e-42f9-bc76-e6aeb19876f9)
