@@ -1,3 +1,7 @@
+# kinokompania skins
+
+
+
 <p align="center">
 <a href="column.md">
        <img src="https://a.ppy.sh/10143155"
