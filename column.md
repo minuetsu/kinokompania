@@ -12,7 +12,7 @@
 ![screenshot037](https://github.com/minuetsu/kinokompania/assets/144561515/69015296-8d66-45bc-97cb-e58657594a71)
 ### [angorpie pink](https://drive.google.com/u/0/uc?id=1yShqRRzcLCDO5Yab3oVt3wPamQWXfC6C&export=download)
 ![288947524-aab56cb6-00b5-4fb2-896a-0af6b41598fc](https://github.com/minuetsu/kinokompania/assets/144561515/f7c961e1-6e2d-41b7-bf19-06c4fffb3d5a)
-### [column+enri-seoulv10](https://drive.google.com/file/d/191YIgahLfJ6WQkKfYIRtovstcx8CSJdt/view?usp=sharing)
+### [column+enri-seoulv9](https://drive.google.com/file/d/191YIgahLfJ6WQkKfYIRtovstcx8CSJdt/view?usp=sharing)
 ![screenshot026](https://github.com/minuetsu/kinokompania/assets/144561515/9d56be8a-dfc3-4e0b-9ef4-0c23149ca0ea)
 ### [woal kimika column edit](https://drive.google.com/file/d/11tjebJpwRtB609dOmRsiOAEUGnqYVfAC/view?usp=drive_link)
 ![screenshot025](https://github.com/minuetsu/kinokompania/assets/144561515/771d8398-2af8-435a-af4c-1074d138e285)
