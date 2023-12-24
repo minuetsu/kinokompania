@@ -7,7 +7,8 @@
        height="175"></a>
 
 
-
+### [tekkito2 (enri+column kimika edit)](https://www.dropbox.com/scl/fi/ewo1trhwlu8vh9jwrl1lq/tekkiro2-enri-column-kimika-edit.osk?rlkey=u8ns8r03ygoha7hhz4kpl2blp&dl=0)
+![screenshot045](https://github.com/minuetsu/kinokompania/assets/144561515/45287b73-b466-4195-be34-5a209ead78b8)
 ### [seoulv10(kohlrubenwinter+column)](https://drive.google.com/file/d/1gyiUOa0-eKyE6UhS9h9kU9MrUWABA7Ye/view?usp=sharing)
 ![screenshot037](https://github.com/minuetsu/kinokompania/assets/144561515/69015296-8d66-45bc-97cb-e58657594a71)
 ### [angorpie pink](https://drive.google.com/u/0/uc?id=1yShqRRzcLCDO5Yab3oVt3wPamQWXfC6C&export=download)
