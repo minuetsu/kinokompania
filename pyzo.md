@@ -6,6 +6,7 @@
        width="175"
        height="175">
  </a>
+
 ### [aristia_edit](https://www.dropbox.com/scl/fi/memcw9fcjkvw5ct0hb6gq/Aristia-Edit.osk?rlkey=th5e4qjg8zpt7z4z3wprnx9fs&dl=0)
 ![screenshot175](https://github.com/minuetsu/kinokompania/assets/68155648/4cfe8a63-484d-40f2-b752-cdba4d165b0d)
 
