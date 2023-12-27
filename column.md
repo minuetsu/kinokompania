@@ -6,7 +6,7 @@
        width="175"
        height="175"></a>
 
-### [Moyai Balls](https://www.dropbox.com/scl/fi/w5rlvyhnwqxlyl03llvpm/Hyeok2044.osk?rlkey=dg5vyjcpvb2x5xf8yum5dey1j&dl=0)
+### [hyeok2044](https://www.dropbox.com/scl/fi/w5rlvyhnwqxlyl03llvpm/Hyeok2044.osk?rlkey=dg5vyjcpvb2x5xf8yum5dey1j&dl=0)
 ![hyeok2044](https://github.com/minuetsu/kinokompania/assets/144561515/c87a57d8-e9c7-4488-8755-03dbd88e0946)
 ### [tekkito2 (enri+column kimika edit)](https://www.dropbox.com/scl/fi/ewo1trhwlu8vh9jwrl1lq/tekkiro2-enri-column-kimika-edit.osk?rlkey=u8ns8r03ygoha7hhz4kpl2blp&dl=0)
 ![screenshot045](https://github.com/minuetsu/kinokompania/assets/144561515/45287b73-b466-4195-be34-5a209ead78b8)
