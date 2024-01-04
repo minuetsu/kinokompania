@@ -7,7 +7,7 @@
        height="175"></a>
  
 ### [Aristia(Edit)+trail](https://drive.google.com/file/d/1aITP2lByLkO3Wa7grr1_1CS2ba0NpusT/view)  
-![aaaa](https://skimg.osuck.net/f023275baf7f83b81ad25ad4d5ff7e9a.webp) 
+![aaaa](https://i.ppy.sh/d3f6fbe17ce018ed9877e92f7b0728c3e16bd21c/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3835323837303031373937393634363032332f3936323735363930393533323834303030362f73637265656e73686f743031352e6a70673f77696474683d383130266865696768743d343536) 
 ### [vaxei 1.0](https://drive.google.com/file/d/11LPfXXKhdPbQd-Cwc3uVfeRve-YOIvkn/view?usp=sharing)
 ![aaaaa](https://camo.githubusercontent.com/cb06c580dfc676e306a98327264ba90666878b63f0713f6ca8d3874bc1ada7ff/68747470733a2f2f6f73752e7070792e73682f73732f31353539343334382f65386263)
 ### [rafis elohere](https://b.catgirlsare.sexy/u57X904SdmOT.osk)
